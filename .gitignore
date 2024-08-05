@@ -1,0 +1,8 @@
+# ignore all .txt files
+*.txt
+*.html
+*.png
+*.pdf
+*.srt
+*.mp4
+*.csv
